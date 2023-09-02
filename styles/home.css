@@ -1,0 +1,56 @@
+
+* {
+    margin: 0;
+    padding: 0: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background: #002e2e;
+    
+}
+
+.cabecalho {
+background-size: 1cm;
+}
+
+main {
+    min-width: 200px;
+    max-width: 1000px;
+    padding: 30px 20px;
+    margin: 0 auto;
+    background-color: rgb(238, 238, 238);
+}
+
+h1 {
+    color: #002e2e;
+    font-size: 35px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    color: #00aa8b;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+figcaption {
+    position: relative;
+    left: 609px;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 18px;
+    padding: 15px 0px;
+}
+
+.i-surpresa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px 0px;
+    position: relative;
+}

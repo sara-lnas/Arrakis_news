@@ -1,0 +1,158 @@
+@import url ('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+@import url ('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    background-color: #002e2e;
+}
+
+.cabecalho {
+    background-color: rgb(9, 9, 9);
+    
+}
+
+.texto-principal {
+    font-family: 'Bruno Ace SC', cursiva;
+    color:#00aa8b;
+    background-color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 70px;
+    padding: 30px;
+}
+
+.subtitulo {
+    font-family: 'Poiret One', cursive;
+    color:#00aa8b;
+    text-align: justify;
+    font-size: 25px;
+    background-color: rgb(9, 9, 9);
+    background-size: 2%;
+    padding-top: 10!important;
+}
+
+span {
+    font-family: 'Poiret One', cursive;
+    color:#B70760;
+    text-align: center;
+    font-size: 60px;
+    font-style: oblique;
+    padding: 0,1cm;
+    gap: 10px;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    gap: 35px;
+    background-color: #003535;
+    justify-content: center;
+    padding: 0,1cm;
+}
+
+.link {
+    font-family: 'Poiret One', cursive;
+    color: #b6fff2;
+    transition: 5px;
+    font-size: 15px;
+}
+
+.link:hover {
+    color: #B70760;
+}
+
+.flex-conteiner {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.flex-item {
+    padding: 5px;
+    margin: 5%;
+    width: 500px;
+}
+
+.imagemhome {
+    inline-size: none;
+    display: inline-block;
+    width: 500px;
+    height: 599px;
+    position: center;
+    left: 60px;
+}
+
+article h3{
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    color: #b4e7db;
+    text-align: justify;
+    width: 500px;
+    margin-top: 20px;
+    position: center;
+    left: 30px;
+}
+
+article p {
+    font-family:'Montserrat Alternates', sans-serif;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    margin-top: 30px;
+    position: center;
+    left: 60px;
+}
+
+/* final da página*/
+
+.section-surpres {
+    color: #b5fcef;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    background-color: #00221c;
+    height: 50px;
+    padding: 10px;
+    margin: 1px 0px;
+
+}
+
+.i-surpresa{
+    display: block;
+    font-family: 'Poiret One';
+    color: #00aa8b;
+    display: flex;
+    padding: 15px;
+    margin: 1px 0px;
+}
+
+
+
+.footer {
+    font-family: 'Montserrat Alternates';
+    height: 40px;
+    padding: 10px;
+    background-color: #003535;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.p-footer {
+    font-family: 'Poiret One';
+    font-size: 55px;
+    padding: 5px;
+   
+}
+
