@@ -4,5 +4,5 @@ Esse foi um trabalho que tinha que criar um portal de notícias do mundo geek.
 Foi utilizado HTML e CSS para elaborá-lo.
 
 <div>
-  Acesse o link: file:///C:/Users/Aluno/OneDrive%20-%20SENAC%20-%20SP/work%20-%20movies/index.html
+  Acesse o link: https://sara-lnas.github.io/Arrakis_news/
 </div>
